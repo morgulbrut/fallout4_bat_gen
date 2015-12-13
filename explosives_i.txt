@@ -1,0 +1,295 @@
+==Explosives==
+
+Explosives have a maximum range of 93. They seem to hit an invisible wall at their maximum range. Explosives benefit from the [[Demolition Expert]] perk.
+===Thrown===
+{{clear}}
+{| class="va-table va-table-full va-table-center sortable"
+
+|- valign="top"
+!
+! {{icon|grenade|x18pxpx|tooltip=Thrown explosive weapon name}}
+! style="width:65px;" | {{icon|damage|x18px|tooltip=Damage per shot|link=Damage}}<br/>
+! AOE<br/>
+! {{icon|ap|x18px|tooltip=Action point cost}}<br/>
+! {{icon|dap|x18px|tooltip=Damage per Action Point}}<br/>
+! {{icon|weight|x18px|tooltip=Weapon weight}}<br/>
+! {{icon|merchant|x18px|tooltip=Weapon value in caps}}<br/>
+! {{icon|ratio|x18px|tooltip=Value to weight ratio}}<br/>
+! Base ID<br/>
+
+|- style="height:32px;"
+| [[File:Baseballgenade.png|32px|link=Baseball grenade]]
+| [[Baseball grenade]]
+| 101 (ballistic)
+|
+|
+|
+| 1
+| 40
+| 40
+| {{ID|00107bd6}}
+
+|- style="height:32px;"
+| [[File:Cryogenic_Grenade.png|32px|link=Cryo grenade (Fallout 4)]]
+| [[Cryo grenade (Fallout 4)|Cryo grenade]]
+| 151 (ballistic)
+|
+|
+|
+| 0.5
+| 50
+| 100
+| {{ID|000FF21D}}
+
+|- style="height:32px;"
+| [[File:Fragmentation_grenade_(Fallout_4).png|x32px|link=Fragmentation grenade (Fallout 4)]]
+| [[Fragmentation grenade (Fallout 4)|Fragmentation grenade]]
+| 151 (ballistic)
+|
+|
+|
+| 0.5
+| 50
+| 100
+| {{ID|000EEBED}}
+
+|- style="height:32px;"
+| [[File:HalluciGen_gas_grenade.png|x32px|link=HalluciGen gas grenade]]
+| [[HalluciGen gas grenade]]
+| 1 (ballistic)
+|
+|
+|
+| 1
+| 35
+| 35
+| {{ID|000E98E5}}
+
+|- class="va-table-highlight" style="height:32px;"
+| [[File:Homing_Beacon.png|x32px|link=Homing Beacon]]
+| [[Homing Beacon]]
+| 1 (ballistic)
+|
+|
+|
+| 1
+| 0
+| 0
+| {{ID|00065dec}}
+
+|- style="height:32px;"
+| [[File:Institute_EM_Pulse_Grenade.png|32px|link=Institute Beacon]]
+| [[Institute Beacon]]
+| 1 (ballistic)
+|
+|
+|
+| 0.5
+| 50
+| 100
+| {{ID|000589F2}}
+
+|- style="height:32px;"
+| [[File:Institute_EM_Pulse_Grenade.png|32px|link=Institute EM pulse grenade]]
+| [[Institute EM pulse grenade]]
+| 150 (energy)
+|
+|
+|
+| 0.5
+| 100
+| 200
+| {{ID|0018325E}}
+
+|- style="height:32px;"
+| [[File:Fallout4_Molotov_cocktail.png|x32px|link=Molotov cocktail (Fallout 4)]]
+| [[Molotov cocktail (Fallout 4)|Molotov cocktail]]
+| 51 (ballistic)
+|
+|
+|
+| 0.5
+| 20
+| 40
+| {{ID|0010c3c6}}
+
+|- style="height:32px;"
+| [[File:Nuka_grenade_(Fallout_4).png|x32px|link=Nuka grenade (Fallout 4)]]
+| [[Nuka grenade (Fallout 4)|Nuka grenade]]
+| 301 (ballistic) + 100 (radiation)
+|
+|
+|
+| 0.5
+| 100
+| 200
+| {{ID|e5750}}
+
+|- style="height:32px;"
+| [[File:Plasma_grenade_(Fallout_4).png|x32px|link=Plasma grenade (Fallout 4)]]
+| [[Plasma grenade (Fallout 4)|Plasma grenade]]
+| 150 (ballistic) + 150 (energy)
+|
+|
+|
+| 0.5
+| 135
+| 270
+| {{ID|0010A33D}}
+
+|- style="height:32px;"
+| [[File:Pulse_Grenade.png|32px|link=Pulse grenade (Fallout 4)]]
+| [[Pulse grenade (Fallout 4)|Pulse grenade]]
+| 150 (energy)
+|
+|
+|
+| 0.5
+| 100
+| 200
+| {{ID|000FF21F}}
+
+|}
+
+===Placed===
+{{clear}}
+{| class="va-table va-table-full va-table-center sortable"
+
+|- valign="top"
+!
+! {{icon|mine|x18pxpx|tooltip=Placed explosive weapon name}}
+! {{icon|damage|x18px|tooltip=Damage per shot|link=Damage}}<br/>
+! AOE<br/>
+! {{icon|ap|x18px|tooltip=Action point cost}}<br/>
+! {{icon|dap|x18px|tooltip=Damage per Action Point}}<br/>
+! {{icon|weight|x18px|tooltip=Weapon weight}}<br/>
+! {{icon|merchant|x18px|tooltip=Weapon value in caps}}<br/>
+! {{icon|ratio|x18px|tooltip=Value to weight ratio}}<br/>
+! Base ID<br/>
+
+|- style="height:32px;"
+| [[File:Bottlecap_mine_(Fallout_4).png|40px|link=Bottlecap mine (Fallout 4)]]
+| [[Bottlecap mine (Fallout 4)|Bottlecap mine]]
+| 301 (ballistic)
+|
+|
+|
+| 0.5
+| 75
+| 150
+| {{ID|10771f}}
+
+|- style="height:32px;"
+| [[File:Cryo_mine_(Fallout_4).png|40px|link=Cryo mine (Fallout 4)]]
+| [[Cryo mine (Fallout 4)|Cryo mine]]
+|101 (ballistic)
+|
+|
+|
+| 0.5
+| 50
+| 100
+|{{ID|0010C669}}
+
+|- style="height:32px;"
+| [[File:Fragmentation_mine_(FO4).png|40px|link=Fragmentation mine (Fallout 4)]]
+| [[Fragmentation mine (Fallout 4)|Fragmentation mine]]
+| 101 (ballistic)
+|
+|
+|
+| 0.5
+| 50
+| 100
+| {{ID|000E56C2}}
+
+|- style="height:32px;"
+| [[File:Nuke Mine (Fallout 4).png|40px]]
+| [[Nuke mine]]
+| 301 (ballistic) + 100 (radiation)
+|
+|
+|
+| 0.5
+| 100
+| 200
+| {{ID|0010A340}}
+
+|- style="height:32px;"
+| [[File:Plasma_mine_(Fallout_4).png|40px|link=Plasma mine (Fallout 4)]]
+| [[Plasma mine (Fallout 4)|Plasma mine]]
+| 150 (ballistic) + 150 (energy)<br>
+|
+|
+|
+| 0.5
+| 100
+| 200
+|{{ID|0010a342}}
+
+|- style="height:32px;"
+| [[File:Pulse_Mine.png|40px|link=Pulse mine (Fallout 4)]]
+| [[Pulse mine (Fallout 4)|Pulse mine]]
+| 150 (energy)
+|
+|
+|
+| 0.5
+| 100
+| 200
+| {{ID|0010A344}}
+
+|}
+
+===Faction explosives===
+{{clear}}
+{| class="va-table va-table-full va-table-center sortable"
+
+|- valign="top"
+!
+! {{icon|grenade|x18pxpx|tooltip=Thrown explosive weapon name}}
+! style="width:65px;" | {{icon|damage|x18px|tooltip=Damage per shot|link=Damage}}<br/>
+! AOE<br/>
+! {{icon|ap|x18px|tooltip=Action point cost}}<br/>
+! {{icon|dap|x18px|tooltip=Damage per Action Point}}<br/>
+! {{icon|weight|x18px|tooltip=Weapon weight}}<br/>
+! {{icon|merchant|x18px|tooltip=Weapon value in caps}}<br/>
+! {{icon|ratio|x18px|tooltip=Value to weight ratio}}<br/>
+! Base ID<br/>
+
+|- style="height:32px;"
+| [[File:VirtyandArtillery_Smoke_Grenade.png|32px|link=Artillery smoke grenade]]
+| [[Artillery smoke grenade]]
+| 1 (ballistic)
+|
+|
+|
+| 0.5
+| 0
+| 0
+| {{ID|0012E2CA}}
+
+|- style="height:32px;"
+| [[File:Institute_EM_Pulse_Grenade.png|32px|link=Synth relay grenade]]
+| [[Synth relay grenade]]
+| 1 (ballistic)
+|
+|
+|
+| 0.5
+| 50
+| 100
+| {{ID|000589F2}}
+
+|- style="height:32px;"
+| [[File:VirtyandArtillery_Smoke_Grenade.png|32px|link=Vertibird signal grenade]]
+| [[Vertibird signal grenade]]
+| 1 (ballistic)
+|
+|
+|
+| 0.5
+| 50
+| 100
+| {{ID|00056917}}
+|}

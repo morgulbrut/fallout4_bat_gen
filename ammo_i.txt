@@ -1,0 +1,350 @@
+==Ammunition==
+===Ballistic Weapons===
+{{clear}}
+{| class="va-table va-table-full" style="text-align: center;"
+! style="width: 15%" | Name
+! style="width: 20%" | Weapons using this ammo
+! style="width: 5%" | Weight
+! style="width: 15%" | Type
+! style="width: 5%" | Value
+! style="width: 5%" | Min. Level
+! style="width: 10%" | [[Form ID|Base ID]]
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[.308 round (Fallout 4)|.308 round]]<br />[[File:.308.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+* [[Combat rifle]]
+* [[Hunting rifle (Fallout 4)|Hunting rifle]]
+* [[Bolt-action_pipe_pistol|Pipe bolt-action pistol]]
+* [[Pipe revolver]]
+| rowspan="1" |
+0
+| Standard
+| 3
+| align="center" | 4
+| {{ID|0001F66B}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[.38 round]] [[File:.382.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+* [[Combat rifle]]
+* [[Hunting rifle (Fallout 4)|Hunting rifle]]
+* [[Bolt-action_pipe_pistol|Pipe bolt-action pistol]]
+* [[Pipe pistol]]
+* [[Pipe revolver]]
+| rowspan="1" |
+0
+| Standard
+| 1
+| align="center" | 1
+| {{ID|0004CE87}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[.44 round]] [[File:.44.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+*[[.44 pistol]]
+*[[Eddie's Peace]]
+*[[Kellogg's pistol]]
+*[[The Gainer]]
+| rowspan="1" |
+0
+| Standard
+| 3
+| align="center" | 18
+| {{ID|0009221c}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[.45 round]] [[File:.45.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+* [[Combat rifle]]
+* [[Pipe pistol]]
+* [[Pipe revolver]]
+* [[Spray n' Pray]]
+* [[Submachine gun (Fallout 4)|Submachine gun]]
+| rowspan="1" |
+0
+| Standard
+| 3
+| align="center" | 12
+| {{ID|0001F66A}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[.50 caliber round (Fallout 4)|.50 round]] [[File:.50.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+* [[Hunting rifle (Fallout 4)|Hunting rifle]]
+* [[Bolt-action_pipe_pistol|Pipe bolt-action pistol]]
+* [[Reba II]]
+| rowspan="1" |
+0
+| Standard
+| 4
+| align="center" | 17
+| {{ID|0001F279}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[5mm round (Fallout 4)|5mm]] [[File:5mm.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+* [[Ashmaker]]
+* [[Minigun (Fallout 4)|Minigun]]
+| rowspan="1" |
+0
+| Standard
+| 1
+| align="center" | 24
+| {{ID|0001F66C}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[5.56mm round (Fallout 4)|5.56mm]] [[File:5.562.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+*[[Assault rifle (Fallout 4)|Assault rifle]]
+| rowspan="1" |
+0
+| Standard
+| 2
+| align="center" | 24
+| {{ID|0001f278}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[10mm round (Fallout 4)|10mm]] [[File:10mm.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+*[[10mm pistol (Fallout 4)|10mm pistol]]
+*[[Deliverer]]
+| rowspan="1" |
+0
+| Standard
+| 2
+| align="center" | 1
+| {{ID|0001F276}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[Shotgun shell (Fallout 4)|Shotgun shell]] [[File:Shotgun_shell.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+*[[Combat shotgun (Fallout 4)|Combat shotgun]]
+*[[Double-barrel shotgun (Fallout 4)|Double-barrel shotgun]]
+*[[Justice]]
+*[[Le Fusil Terribles]]
+| rowspan="1" |
+0
+| Standard
+| 3
+| align="center" | 14
+| {{ID|0001F673}}
+
+|}
+
+===Explosives===
+{{clear}}
+{| class="va-table va-table-full" style="text-align: center;"
+! style="width: 15%" | Name
+! style="width: 20%" | Weapons using this ammo
+! style="width: 5%" | Weight
+! style="width: 15%" | Type
+! style="width: 5%" | Value
+! style="width: 5%" | Min. Level
+! style="width: 10%" | [[Form ID|Base ID]]
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[Mini nuke (Fallout 4)|Mini nuke]] [[File:Fatman.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+* [[Fat Man (Fallout 4)|Fat Man]]
+* [[Big Boy]]
+| rowspan="1" |
+0
+| Explosive
+| 100
+| align="center" | -
+| {{ID|000E6B2E}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[Missile (Fallout 4)|Missile]] [[File:Missle.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+* [[Missile launcher (Fallout 4)|Missile launcher]]
+* [[Partystarter]]
+* [[Death From Above (weapon)|Death From Above]]
+| rowspan="1" |
+0
+| Explosive
+|25
+| align="center" | 10
+| {{ID|000CABA3}}
+
+|}
+
+===Energy weapons===
+{| class="va-table va-table-full" style="text-align: center;"
+! style="width: 20%" | Name
+! style="width: 25%" | Weapons using this ammo
+! style="width: 5%" | Weight
+! style="width: 15%" | Type
+! style="width: 5%" | Value
+! style="width: 5%" | Min. Level
+! style="width: 10%" | [[Form ID|Base ID]]
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[Plasma cartridge]] [[File:Plasma.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+*[[Plasma pistol (Fallout 4)|Plasma pistol]]
+*[[Plasma rifle (Fallout 4)|Plasma rifle]]
+*[[Plasma scattergun|Plasma scattergun]]
+*[[Plasma sniper rifle|Plasma sniper rifle]]
+*[[Plasma thrower|Plasma thrower]]
+| rowspan="1" |
+0
+| Energy
+|5
+| align="center" | 17
+| {{ID|0001dbb7}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[Fusion core]] [[File:Fussioncore.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+*[[Gatling laser (Fallout 4)|Gatling laser]]
+*[[Power armor (Fallout 4)|Power armor]]
+*[[Final Judgment]]
+| rowspan="1" |
+0
+| Energy
+| 200
+| align="center" | 10
+| {{ID|00075fe4}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[Fusion cell]] [[File:Fusioncell.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+*[[Laser pistol]]
+*[[Laser rifle]]
+*[[Institute rifle]]
+*[[Institute pistol]]
+*[[Laser musket]]
+*[[Alien blaster pistol]]
+| rowspan="1" |
+0
+| Energy
+| 3
+| align="center" | 7
+| {{ID|000c1897}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[2mm EC (Fallout 4)|2mm EC]] [[File:Ec.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+*[[Gauss rifle (Fallout 4)|Gauss rifle]]
+*[[The Last Minute]]
+| rowspan="1" |
+0
+| Energy
+| 3
+| align="center" | 28
+| {{ID|00018abdf}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[Gamma round]] [[File:Gamma2.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+*[[Gamma gun]]
+*[[Lorenzo's Artifact]]
+*[[Gamma gun|Zeta gun]]
+| rowspan="1" |
+0
+| Energy
+| 10
+| align="center" | 10
+| {{ID|000DF279}}
+
+|}
+
+===Other===
+{| class="va-table va-table-full" style="text-align: center;"
+! style="width: 20%" | Name
+! style="width: 25%" | Weapons using this ammo
+! style="width: 5%" | Weight
+! style="width: 15%" | Type
+! style="width: 5%" | Value
+! style="width: 5%" | Min. Level
+! style="width: 10%" | [[Form ID|Base ID]]
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" | [[Cryo cell]] [[File:Cryocell.png|thumb|center|30px]]
+| rowspan="1" align="left" |
+*[[Cryolator]]
+| rowspan="1" |
+0
+| Energy
+| 10
+| align="center" | -
+| {{ID|0018ABE2}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[Flare (Fallout 4)|Flare]] [[File:Fo4 flare.png|thumb|center|30px]]
+| rowspan="1" align="left" |
+*[[Flare gun (Fallout 4)|Flare gun]]
+| rowspan="1" |
+0
+| Standard
+| 1
+| align="center" | -
+| {{ID|001025AE}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[Flamer fuel (Fallout 4)|Flamer fuel]] [[File:Flamer.png|thumb|center|30px]]
+| rowspan="1" align="left" |
+*[[Flamer (Fallout 4)|Flamer]]
+| rowspan="1" |
+0
+| Energy
+| 1
+| align="center" | 10
+| {{ID|000cac78}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[http://fallout.wikia.com/wiki/Fallout_4_miscellaneous_items#Junk_items Junk] [[File:Junk.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+*[[Junk Jet]]
+| rowspan="1" |
+Depends on [http://fallout.wikia.com/wiki/Fallout_4_miscellaneous_items#Junk_items Junk] used
+| Standard
+|
+| align="center" | -
+| {{ID|000E942C}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[Cannonball]] [[File:Cannonball.png|thumb|center|40px]]
+| rowspan="1" align="left" |
+*[[Broadsider]]
+| rowspan="1" |
+0
+| Standard
+|8
+| align="center" | -
+| {{ID|000FD11C}}
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" |[[Syringer ammo]] [[File:Siringe.png|thumb|center|50px]]
+| rowspan="1" align="left" |
+*[[Syringer]]
+| rowspan="1" |
+0.1
+| Standard
+|
+| align="center" | -
+| varies
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" | [[Alien blaster round]]
+| rowspan="1" align="left" |
+*[[Alien blaster pistol]]
+| rowspan="1" |
+0
+| Energy
+| 3
+| align="center" | -
+| {{ID|001025AA}}
+
+|- style="border-top: 2px solid #AAA;"
+| rowspan="1" | [[Railway spike]]
+| rowspan="1" align="left" |
+* [[Junk Jet]]
+* [[Railway rifle (Fallout 4)|Railway rifle]]
+| rowspan="1" |
+0
+| Standard
+| 1
+| align="center" | 10
+| {{ID|000fe269}}
